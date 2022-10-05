@@ -1,2 +1,2 @@
-# Kelas-X
-Berkas-Berkas Codingan Kelas X
+# BERKELAS
+Berkas-Berkas Codingan SMK TELKOM MALANG
