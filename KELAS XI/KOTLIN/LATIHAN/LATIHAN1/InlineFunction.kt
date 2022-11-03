@@ -14,5 +14,5 @@ fun main() {
     print("")
     println(socute { "SETYAWAN" })
 
-    println(hai({"COLI"}, {"JONI"}))
+    println(hai({"COBI"}, {"JONI"}))
 }
